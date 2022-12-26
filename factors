@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # read from file given as argv[1] ($1) and print factors for each num in file
 
 FILE=$1
